@@ -16,7 +16,7 @@ $ cd twitter_stream
 $ python install setup.py
 ```
 
-#### Download and copy your project directory
+#### Download and copy to your project directory
 
 ```
 $ git clone https://github.com/kozuru-tmk/twitter_stream.git
